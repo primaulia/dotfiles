@@ -70,3 +70,6 @@ export EDITOR=code
 
 # Set ipdb as the default Python debugger
 export PYTHONBREAKPOINT=ipdb.set_trace
+
+# Added by Windsurf
+export PATH="/Users/primaulia/.codeium/windsurf/bin:$PATH"
